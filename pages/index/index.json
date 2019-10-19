@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+       "van-button": "/miniprogram_npm/vant-weapp/button/index",
+       "van-nav-bar": "/miniprogram_npm/vant-weapp/nav-bar/index",
+       "van-card":  "/miniprogram_npm/vant-weapp/card/index",
+        "van-tabbar": "/miniprogram_npm/vant-weapp/tabbar/index",
+        "van-tabbar-item": "/miniprogram_npm/vant-weapp/tabbar-item/index"
+  }
+}

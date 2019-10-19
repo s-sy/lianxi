@@ -1,0 +1,13 @@
+<van-tabbar
+  active="{{ active }}"
+  active-color="#1989fa"
+  inactive-color="#7d7e80"
+  bind:change="onChange"
+>
+  <van-tabbar-item name="index" icon="home-o">首页</van-tabbar-item>
+  <van-tabbar-item name="feilei" icon="search">分类</van-tabbar-item>
+ 
+  <van-tabbar-item name="shopping" icon="shopping-cart-o">购物车</van-tabbar-item>
+  
+  <van-tabbar-item name="myself" icon="contact">我的</van-tabbar-item>
+</van-tabbar>
